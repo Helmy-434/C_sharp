@@ -1,0 +1,15 @@
+/workspaces/C_sharp/bin/Debug/net10.0/C_sharp
+/workspaces/C_sharp/bin/Debug/net10.0/C_sharp.deps.json
+/workspaces/C_sharp/bin/Debug/net10.0/C_sharp.runtimeconfig.json
+/workspaces/C_sharp/bin/Debug/net10.0/C_sharp.dll
+/workspaces/C_sharp/bin/Debug/net10.0/C_sharp.pdb
+/workspaces/C_sharp/obj/Debug/net10.0/C_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C_sharp/obj/Debug/net10.0/C_sharp.AssemblyInfoInputs.cache
+/workspaces/C_sharp/obj/Debug/net10.0/C_sharp.AssemblyInfo.cs
+/workspaces/C_sharp/obj/Debug/net10.0/C_sharp.csproj.CoreCompileInputs.cache
+/workspaces/C_sharp/obj/Debug/net10.0/C_sharp.sourcelink.json
+/workspaces/C_sharp/obj/Debug/net10.0/C_sharp.dll
+/workspaces/C_sharp/obj/Debug/net10.0/refint/C_sharp.dll
+/workspaces/C_sharp/obj/Debug/net10.0/C_sharp.pdb
+/workspaces/C_sharp/obj/Debug/net10.0/C_sharp.genruntimeconfig.cache
+/workspaces/C_sharp/obj/Debug/net10.0/ref/C_sharp.dll
