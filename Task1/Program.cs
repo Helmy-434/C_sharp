@@ -1,7 +1,7 @@
-﻿
-bool flag = true;
+﻿bool flag;
 do
 {
+    flag = true;
     Console.Write("Enter your name: ");
     string name = Console.ReadLine();
     Console.Write("Enter your score: ");
